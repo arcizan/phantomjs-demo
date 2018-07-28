@@ -1,0 +1,10 @@
+/.ensime*
+/RUNNING_PID
+/classify/
+/logs/
+/project/*-shim.sbt
+/project/project/
+/project/target/
+/target/
+/test/
+/urls/
